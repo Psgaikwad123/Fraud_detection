@@ -3,3 +3,6 @@ class data:
       print('Preprocessing')
 
     preprocessing()
+    
+    def final():
+        print("final model")
